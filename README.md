@@ -5,9 +5,10 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-[](https://github.com/nastyabutyugina/java-2.1/issues/1#issue-1045766280 "issue")
+* [Issues](https://github.com/nastyabutyugina/java-2.1/issues/1#issue-1045766280).
 
 Описание процесса тестирования
+
 В процессе тестирования использовались следующие артефакты:
 
 Код программы
